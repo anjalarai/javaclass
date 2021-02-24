@@ -9,7 +9,7 @@ public class Temperature {
         String Temp = sc.next();
 
 
-        if (Temp = "F")
+      //  if (Temp = "F")
         {
 
         }
