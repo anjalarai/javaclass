@@ -1,8 +1,7 @@
 package assignment;
 import java.util.Scanner;
 public class Question18 {
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
         int x, y, z;
         Scanner s = new Scanner(System.in);
         System.out.print("Enter the first number:");
@@ -21,3 +20,4 @@ public class Question18 {
 
 
     }
+}
