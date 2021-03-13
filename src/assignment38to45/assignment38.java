@@ -1,4 +1,4 @@
-package Assignment38to45;
+package assignment38to45;
 import java.util.Scanner;
 
 public class assignment38 {

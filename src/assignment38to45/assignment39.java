@@ -1,5 +1,5 @@
-package Assignment38to45;
-import java.util.*;
+package assignment38to45;
+
 public class assignment39 {
     public static void main(String[] args) {
         String name = "John Matthew Adams";
