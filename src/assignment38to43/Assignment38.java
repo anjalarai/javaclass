@@ -1,7 +1,7 @@
-package assignment38to45;
+package assignment38to43;
 import java.util.Scanner;
 
-public class assignment38 {
+public class Assignment38 {
     public static void main(String args[])
     {
         String str, rev = "";

@@ -1,6 +1,6 @@
-package assignment38to45;
+package assignment38to43;
 
-public class assignment39 {
+public class Assignment39 {
     public static void main(String[] args) {
         String name = "John Matthew Adams";
         System.out.println("The full name is: " + name);
